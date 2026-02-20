@@ -43,9 +43,9 @@ Other Changes**
     <NoWarn>$(NoWarn);CS1591</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
-    <XunitVersion>2.4.1</XunitVersion>
+    <XunitVersion>2.8.1</XunitVersion>
     <TestSdkVersion>17.1.0</TestSdkVersion>
-    <AkkaVersion>1.4.35</AkkaVersion>
+    <AkkaVersion>1.5.60</AkkaVersion>
     <RedisVersion>2.2.88</RedisVersion>
     <DockerVersion>3.125.5</DockerVersion>
     <NetCoreTestVersion>netcoreapp3.1</NetCoreTestVersion>
